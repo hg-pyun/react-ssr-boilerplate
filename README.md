@@ -3,7 +3,7 @@ This is simplest react boilerplate for [plate-cli](https://github.com/haegul/pla
 
 ## Installation
 ```
-$ sudo npm install plate -g && plate react-ssr 
+$ sudo npm install plate -g && plate react-ssr -d my-project
 ```
 
 ## Stack
