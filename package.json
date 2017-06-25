@@ -1,7 +1,7 @@
 {
   "name": "react-ssr-boilerplate",
   "version": "1.0.0",
-  "main": "webpack.config.js",
+  "main": "server/inex.js",
   "dependencies": {
     "express": "^4.15.2",
     "react": "^15.5.4",
